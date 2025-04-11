@@ -103,7 +103,7 @@ span {
 	border-bottom: 3px solid #E3E2DC;
 }
 
-.desktop-nav a:hover, .desktop-nav a:active, .desktop-nav a:focus, .desktop-nav a:visited{
+.desktop-nav a:hover, .desktop-nav a:active{
 	color: #EDE6B9;
   }
   .mobile-nav{display: none;}
