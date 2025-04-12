@@ -78,5 +78,6 @@ https://jeshan26.github.io/BookStop-All-in-one-Bookstore/index.html
 
 ## 📬 Contact / Credits
 
-Created by Jeshan Chhabra For queries or collaborations: jeshanchhabra@yahoo.com
+Created by Jeshan Chhabra 
+For queries or collaborations: jeshanchhabra@yahoo.com
 
